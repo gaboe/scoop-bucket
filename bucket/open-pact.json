@@ -1,12 +1,12 @@
 {
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "Open Pact client.",
   "homepage": "https://github.com/gaboe/open-pact",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/gaboe/open-pact/releases/download/v0.3.2/open-pact-client-x86_64-pc-windows-msvc.exe",
-      "hash": "3698558a716e3d853924559270b88dba64a478725457632b747e2e27f6c93726"
+      "url": "https://github.com/gaboe/open-pact/releases/download/v0.3.3/open-pact-client-x86_64-pc-windows-msvc.exe",
+      "hash": "3d4d9e2401732dfcf8f5fa976ef1644202d4de9402feec939aa6ce9d21b00637"
     }
   },
   "bin": [["open-pact-client-x86_64-pc-windows-msvc.exe", "open-pact-client"]],
