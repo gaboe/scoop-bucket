@@ -1,12 +1,12 @@
 {
-  "version": "0.8.2",
+  "version": "0.8.3",
   "description": "Desktop apps for open-pact: join a company and check this device, and edit deployment manifests",
   "homepage": "https://github.com/gaboe/open-pact",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/gaboe/open-pact/releases/download/v0.8.2/open-pact-desktop-0.8.2-windows-x64.zip",
-      "hash": "aeca74b6991d53160accf36cc5c7946a41e2c725c303008c4a9b2f5b3776cd7e"
+      "url": "https://github.com/gaboe/open-pact/releases/download/v0.8.3/open-pact-desktop-0.8.3-windows-x64.zip",
+      "hash": "e96ccc48bfc1498a6dc582f713aeb48ca9622c736dece7b842d2a4eedfb39977"
     }
   },
   "shortcuts": [
