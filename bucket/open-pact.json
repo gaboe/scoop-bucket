@@ -1,12 +1,12 @@
 {
-  "version": "0.8.4",
+  "version": "0.8.5",
   "description": "Open Pact client.",
   "homepage": "https://github.com/gaboe/open-pact",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/gaboe/open-pact/releases/download/v0.8.4/open-pact-client-x86_64-pc-windows-msvc.exe",
-      "hash": "9dee413abf468a9d9aaeef74f28d10992031ffa536c75b1003842e83ff88c2ca"
+      "url": "https://github.com/gaboe/open-pact/releases/download/v0.8.5/open-pact-client-x86_64-pc-windows-msvc.exe",
+      "hash": "0a5b32057af93c685a983d07e6b06f90b44f3fe5f37b6aad8c2b7079f48abf0b"
     }
   },
   "bin": [["open-pact-client-x86_64-pc-windows-msvc.exe", "open-pact-client"]],
